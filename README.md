@@ -258,6 +258,7 @@ depending on your needs and wants.
 - [Veracrypt](https://www.veracrypt.fr) - disk encryption software for Windows, Mac OSX and Linux.
 - [Cryptomator](https://cryptomator.org/) - encrypt backups before sending it to the cloud for Linux, MacOS and Windows
 - [LibremOne](https://librem.one/) - paid for secure chat, email, vpn, social media, etc.
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) – Free browser-based PDF toolkit. All processing runs client-side — files never leave your device.
 
 # Hardware
 - https://www.pine64.org/ - Opensource phones, laptops, smartwatches, IOT, IP camera, etc
